@@ -1,5 +1,5 @@
 # Customer Churn Analysis Dashboard Using PowerBi
-### The analysis integrates insights from three distinct images, each shedding light on different aspects of customer churn. By synthesizing this information, we gain a comprehensive understanding of the current situation.
+### This Git report aims to analyze the factors contributing to customer churn within our company, with a focus on the impact of unresolved customer tickets and the shift of contract customers to month-to-month plans, particularly among younger demographics.
 
 
 ## Problem Statement
